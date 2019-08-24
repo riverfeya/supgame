@@ -1,0 +1,245 @@
+{
+  "name": "test",
+  "assets": [
+    {
+      "id": "0",
+      "name": "Шейдер",
+      "type": "shader"
+    },
+    {
+      "id": "1",
+      "name": "Сцена1",
+      "type": "scene"
+    },
+    {
+      "id": "21",
+      "name": "start",
+      "type": "scene"
+    },
+    {
+      "id": "3",
+      "name": "test",
+      "type": "font"
+    },
+    {
+      "id": "4",
+      "name": "Шрифт",
+      "type": "font"
+    },
+    {
+      "id": "2",
+      "name": "test_model",
+      "type": "model"
+    },
+    {
+      "id": "6",
+      "name": "Спрайт",
+      "type": "sprite"
+    },
+    {
+      "id": "44",
+      "name": "game",
+      "type": "script"
+    },
+    {
+      "id": "7",
+      "name": "RunTest",
+      "type": "script"
+    },
+    {
+      "id": "45",
+      "name": "tick_out",
+      "type": "script"
+    },
+    {
+      "id": "46",
+      "name": "pos_out",
+      "type": "script"
+    },
+    {
+      "id": "8",
+      "name": "Спрайт2",
+      "type": "sprite"
+    },
+    {
+      "id": "37",
+      "name": "GUI",
+      "type": null,
+      "children": [
+        {
+          "id": "36",
+          "name": "GUI-main",
+          "type": "scene"
+        },
+        {
+          "id": "43",
+          "name": "inventory",
+          "type": null,
+          "children": []
+        },
+        {
+          "id": "42",
+          "name": "heals_bar2",
+          "type": null,
+          "children": [
+            {
+              "id": "38",
+              "name": "heals_bar",
+              "type": "sprite"
+            },
+            {
+              "id": "39",
+              "name": "heals_bar-end",
+              "type": "sprite"
+            },
+            {
+              "id": "40",
+              "name": "heals_bar-middle",
+              "type": "sprite"
+            },
+            {
+              "id": "41",
+              "name": "heals_bar-start",
+              "type": "sprite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "maps",
+      "type": null,
+      "children": [
+        {
+          "id": "20",
+          "name": "map_01",
+          "type": "tileMap"
+        },
+        {
+          "id": "18",
+          "name": "tile_set",
+          "type": "tileSet"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "items",
+      "type": null,
+      "children": [
+        {
+          "id": "23",
+          "name": "house_01",
+          "type": "tileMap"
+        },
+        {
+          "id": "24",
+          "name": "house_02",
+          "type": "tileMap"
+        },
+        {
+          "id": "25",
+          "name": "tree_01",
+          "type": "tileMap"
+        },
+        {
+          "id": "26",
+          "name": "sign",
+          "type": "tileMap"
+        },
+        {
+          "id": "29",
+          "name": "gate",
+          "type": "tileMap"
+        },
+        {
+          "id": "31",
+          "name": "vason",
+          "type": "tileMap"
+        },
+        {
+          "id": "32",
+          "name": "bochka",
+          "type": "tileMap"
+        },
+        {
+          "id": "30",
+          "name": "table",
+          "type": "tileMap"
+        },
+        {
+          "id": "33",
+          "name": "stone_home",
+          "type": "tileMap"
+        },
+        {
+          "id": "34",
+          "name": "stone_2",
+          "type": "tileMap"
+        },
+        {
+          "id": "35",
+          "name": "Egg",
+          "type": "tileMap"
+        },
+        {
+          "id": "27",
+          "name": "stone",
+          "type": "tileMap"
+        },
+        {
+          "id": "28",
+          "name": "flower",
+          "type": "tileMap"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Characters",
+      "type": null,
+      "children": [
+        {
+          "id": "14",
+          "name": "girl",
+          "type": "sprite"
+        },
+        {
+          "id": "15",
+          "name": "girl_anim",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Locations",
+      "type": null,
+      "children": [
+        {
+          "id": "10",
+          "name": "Location_01",
+          "type": "scene"
+        },
+        {
+          "id": "12",
+          "name": "Fons",
+          "type": null,
+          "children": [
+            {
+              "id": "11",
+              "name": "Fon_01",
+              "type": "sprite"
+            },
+            {
+              "id": "22",
+              "name": "Fon_01_B",
+              "type": "sprite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
